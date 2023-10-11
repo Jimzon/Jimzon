@@ -2,8 +2,6 @@
 <p>I'm a frontend developer and UI/UX designer with 2 years of experience.
 Despite not having a computer science background, I'm passionate about programming. I'm currently strengthening my frontend skills and gradually learning backend to become a fullstack developer, leveraging my quick learning abilities from being a chess master.
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimzon&label=Profile%20views&color=0e75b6&style=flat" alt="jimzon" /> </p>
-
 
 - 📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
 
