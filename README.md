@@ -4,7 +4,7 @@
 Despite not having a computer science background, I'm passionate about programming. I'm currently strengthening my frontend skills and gradually learning backend to become a fullstack developer, leveraging my quick learning abilities from being a chess master.
 </p>
 
-- 📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
+📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
