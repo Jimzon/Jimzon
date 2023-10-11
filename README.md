@@ -16,4 +16,3 @@ Despite not having a computer science background, I'm passionate about programmi
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimzon&" alt="jimzon" /></p>
