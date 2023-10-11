@@ -4,7 +4,6 @@ Despite not having a computer science background, I'm passionate about programmi
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimzon&label=Profile%20views&color=0e75b6&style=flat" alt="jimzon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimzon" alt="jimzon" /></a> </p>
 
 - 📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
 
