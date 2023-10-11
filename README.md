@@ -1,5 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">JHi. I'm Jimzon Trangia, nice to meet you!</h3>
+<p>I'm a frontend developer and UI/UX designer with 2 years of experience.
+Despite not having a computer science background, I'm passionate about programming. I'm currently strengthening my frontend skills and gradually learning backend to become a fullstack developer, leveraging my quick learning abilities from being a chess master.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimzon&label=Profile%20views&color=0e75b6&style=flat" alt="jimzon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimzon" alt="jimzon" /></a> </p>
