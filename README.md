@@ -1,12 +1,12 @@
 <h3 align="center">Hi 👋 I'm Jimzon, nice to meet you!</h3>
 
-<ul>
-<li>  2+ years of experience in business analysis, frontend development, and UI/UX design. </li>
-<li>Exceptional at turning complex business needs into technical solutions.</li>
-<li>Chess Master with expertise in strategy, pattern recognition, and critical thinking.</li>
-<li>A dedicated learner and team player, fostering a collaborative work environment.<lip>
-<li>Exceptional at breaking down the vision into actionable business and technical goals.</li>
-</ul>
+<p>
+ 2+ years of experience in business analysis, frontend development, and UI/UX design. 
+Exceptional at turning complex business needs into technical solutions.
+Chess Master with expertise in strategy, pattern recognition, and critical thinking.
+A dedicated learner and team player, fostering a collaborative work environment.
+Exceptional at breaking down the vision into actionable business and technical goals.
+</p>
 📄 Know about my experiences: https://jimzon.github.io/
 
 <h3 align="left">Connect with me:</h3>
