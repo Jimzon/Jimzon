@@ -9,7 +9,7 @@
 <li>A dedicated learner and team player, fostering a collaborative work environment.<lip>
 <li>Exceptional at breaking down the vision into actionable business and technical goals.</li>
 </ul>
-📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
+📄 Know about my experiences: https://jimzon.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
