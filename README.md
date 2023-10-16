@@ -1,7 +1,12 @@
 <h3 align="center">Hi 👋 I'm Jimzon, nice to meet you!</h3>
 
-<p>I'm a frontend developer and UI/UX designer with over 2 years of experience.
-Despite not having a computer science background, I'm passionate about programming. I'm currently strengthening my frontend skills and gradually learning backend to become a fullstack developer, leveraging my quick learning abilities from being a chess master.
+<p>2+ years of experience in business analysis, frontend development, and UI/UX design.
+Exceptional at turning complex business needs into technical solutions.
+Proficient in diverse tools and methodologies for process optimization.
+Strong design and development skills, with a user-centered approach.
+Chess Master with expertise in strategy, pattern recognition, and critical thinking.
+A dedicated learner and team player, fostering a collaborative work environment.
+Exceptional at breaking down the vision into actionable business and technical goals.
 </p>
 
 📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
