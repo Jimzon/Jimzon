@@ -3,11 +3,11 @@
 <ul>
 <li>  2+ years of experience in business analysis, frontend development, and UI/UX design. </li>
 <li>Exceptional at turning complex business needs into technical solutions.</li>
-<p>Proficient in diverse tools and methodologies for process optimization.</p>
-<p>Strong design and development skills, with a user-centered approach.</p>
-<p>Chess Master with expertise in strategy, pattern recognition, and critical thinking.</p>
-<p>A dedicated learner and team player, fostering a collaborative work environment.</p>
-<p>Exceptional at breaking down the vision into actionable business and technical goals.</p>
+<li>Proficient in diverse tools and methodologies for process optimization.</li>
+<li>Strong design and development skills, with a user-centered approach.</li>
+<li>Chess Master with expertise in strategy, pattern recognition, and critical thinking.</li>
+<li>A dedicated learner and team player, fostering a collaborative work environment.<lip>
+<li>Exceptional at breaking down the vision into actionable business and technical goals.</li>
 </ul>
 📄 Know about my experiences [https://jimzon.github.io/](https://jimzon.github.io/)
 
