@@ -7,7 +7,7 @@
  committed to fostering a collaborative work environment. Additionally, my
  proficiency as a Chess Master highlights my expertise in strategy, pattern
  recognition, and critical thinking, which further enhance my problem-solving
- capabilities
+ capabilities.
 </p>
 📄 Know about my experiences: https://jimzon.github.io/
 
