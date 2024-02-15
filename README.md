@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋 I'm Jimzon, nice to meet you!</h3>
 
 <p>
-+3 years of experience in web development and UI/UX design, I bring
+3 years of experience in web development and UI/UX design, I bring
  a unique blend of strong design and development skills, all underpinned by a
  user-centered approach. I am a dedicated learner and a team player,
  committed to fostering a collaborative work environment. Additionally, my
