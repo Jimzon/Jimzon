@@ -2,13 +2,12 @@
 
 <p>
 
-4 years of experience in web development and UI/UX design, I bring
- a unique blend of strong design and development skills, all underpinned by a
- user-centered approach. I am a dedicated learner and a team player,
- committed to fostering a collaborative work environment. Additionally, my
- proficiency as a Chess Master highlights my expertise in strategy, pattern
- recognition, and critical thinking, which further enhance my problem-solving
- capabilities.
++3 years of experience in web development and UI/UX design, I bring
+a unique blend of strong design and development skills, all underpinned by a
+user-centered approach. I am a dedicated learner and a team player,
+committed to fostering a collaborative work environment. Additionally, my
+proficiency as a Chess Master highlights my expertise in strategy, pattern
+recognition, and critical thinking, which further enhance my problem-solving capabilities.
 </p>
 📄 Know about my experiences: https://jimzon.github.io/
 
