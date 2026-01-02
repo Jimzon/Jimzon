@@ -3,7 +3,7 @@
 <p>
 
 
-Four years of experience in web development, UI/UX design and Cloud enginnering, I bring
+Over four years of experience in web development, UI/UX design and Cloud enginnering, I bring
 a unique blend of strong design and development skills, all underpinned by a
 user-centered approach. I am a dedicated learner and a team player,
 committed to fostering a collaborative work environment. Additionally, my
